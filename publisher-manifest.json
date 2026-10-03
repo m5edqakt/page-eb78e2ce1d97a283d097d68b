@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "d6775072d692f58f83109b8f",
+  "owner": "m5edqakt",
+  "repo": "page-eb78e2ce1d97a283d097d68b",
+  "title": "肥猫云(FatCat)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "eb78e2ce1d97a283d097d68b",
+      "a": "肥猫云(FatCat)",
+      "b": "",
+      "entity": "肥猫云(FatCat)",
+      "brand": "肥猫云(FatCat)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c575b16758ca04fe5944a14248eafac6c811a42407b5b773569b68d697c34f4d",
+      "content": {
+        "keyword1": "肥猫云(FatCat)",
+        "keyword2": "",
+        "primary_entity": "肥猫云(FatCat)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "肥猫云(FatCat)提供稳定高速的机场订阅与VPN加速服务，支持多端客户端下载，覆盖流媒体解锁、游戏加速与跨境办公，欢迎访问官网获取套餐与官方下载。",
+          "AI_DESCRIPTION": "肥猫云(FatCat)提供稳定高速的机场订阅与VPN加速服务，支持多端客户端下载，覆盖流媒体解锁、游戏加速与跨境办公，欢迎访问官网获取套餐与官方下载。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#f3f4f6;color:#1f2937;line-height:1.65;font-size:16px;overflow-x:hidden}a{color:#6d28d9}header{background:#fff;border-bottom:1px solid #e5e7eb}header .wrap,footer .wrap,.section .wrap{max-width:960px;margin:0 auto;padding:0 16px}.brand{display:block;padding:14px 0;font-weight:700;color:#4c1d95;text-decoration:none;font-size:1.125rem}nav{display:flex;flex-wrap:wrap;gap:8px 16px;padding:0 0 12px}nav a{color:#5b21b6;text-decoration:none;font-weight:500}.hero{padding:56px 16px 40px;text-align:center;background:#faf5ff}.hero h1{font-size:2rem;color:#4c1d95;margin-bottom:16px;font-weight:700;letter-spacing:-0.02em}@media(min-width:640px){.hero h1{font-size:2.75rem;padding:8px 0 12px}}.lead{font-size:1.125rem;color:#4b5563;max-width:680px;margin:0 auto 24px}.btn{display:inline-block;background:#7c3aed;color:#fff;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:600}.section{padding:40px 0}h2{font-size:1.5rem;color:#5b21b6;margin-bottom:16px;padding-bottom:8px;border-bottom:2px solid #ddd6fe}h3{font-size:1.15rem;color:#6d28d9;margin:18px 0 8px}p{margin:0 0 12px}.plans{display:flex;flex-wrap:wrap;gap:16px}.plan{flex:1 1 250px;background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:22px}.plan.featured{border:2px solid #7c3aed;box-shadow:0 4px 14px rgba(124,58,237,.12)}.price{font-size:1.7rem;font-weight:700;color:#4c1d95}.annual{font-size:.875rem;color:#6b7280;margin-bottom:10px}ul{padding-left:1.2em;margin:8px 0 0}li{margin:6px 0}.clients{display:flex;flex-wrap:wrap;gap:12px}.client{flex:1 1 200px;background:#fff;padding:16px;border-radius:8px;border-left:4px solid #7c3aed}.steps ol{padding-left:1.3em}.ad{background:#ede9fe;padding:16px;text-align:center;margin:8px 0 24px;border-radius:8px;color:#4c1d95}details{background:#fff;margin-bottom:8px;border-radius:8px;padding:2px 16px;border:1px solid #e5e7eb}summary{cursor:pointer;font-weight:600;padding:12px 0;color:#4c1d95}details p{padding-bottom:12px;color:#374151}.friend{display:flex;flex-wrap:wrap;gap:10px 16px}footer{background:#4c1d95;color:#e9d5ff;padding:28px 0;font-size:.875rem}footer a{color:#ddd6fe}</style><header><div class=\"wrap\"><a class=\"brand\" href=\"#\">肥猫云(FatCat)</a><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#download\">官网下载</a></nav></div></header><main><div class=\"hero\"><h1>肥猫云(FatCat) 官方网络加速服务</h1><p class=\"lead\">面向跨境办公、流媒体与游戏加速的机场订阅与 VPN 梯子方案。按设备选择客户端，导入订阅即可使用。本页为肥猫云官方网站信息汇总，便于对照套餐、节点能力与下载入口。</p><p><a class=\"btn\" href=\"#clients\">查看客户端选择</a> <a class=\"btn\" href=\"#plans\">浏览套餐</a></p></div><section class=\"section\" id=\"intro\"><div class=\"wrap\"><h2>品牌简介</h2><p>肥猫云(FatCat)是面向个人与小团队的网络加速服务，核心能力是机场订阅：一次购买即可在 Clash、Shadowrocket、Surge 等客户端中使用同一套节点。服务定位为稳定的梯子与加速器，覆盖日常浏览、视频解锁与对延迟敏感的游戏线路。</p><p>节点侧以香港、日本、新加坡、美国、台湾等常用出口为主，旗舰与团队线路包含 IPLC 专线优化，降低跨境抖动。流量按月结算，设备数按套餐限制同时在线。官方身份以本站套餐说明、订阅发放与客户端指引为准，下载与更新请通过页面内「官网下载」锚点进入对应说明，避免来路不明的安装包。</p><p>与传统单机 VPN 不同，肥猫云强调「订阅 + 多客户端」：同一订阅可在手机、电脑之间切换，规则由客户端本地执行，便于按应用分流、绕过国内站点或指定流媒体走专线。</p></div></section><section class=\"section\" id=\"plans\"><div class=\"wrap\"><h2>套餐与订阅</h2><p>以下为当前固定套餐，价格含月付与年付对照。年付按 10 个月计价。购买后在用户中心复制订阅链接，即可导入客户端。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></div></section><section class=\"section\" id=\"clients\"><div class=\"wrap\"><h2>客户端选择</h2><p>肥猫云不绑定单一 App，订阅兼容主流协议。请按系统选择客户端，再导入官网发放的订阅地址。以下为推荐组合，安装包请从各客户端项目或应用商店获取，配置以肥猫云订阅为准。</p><div class=\"clients\"><div class=\"client\"><h3>Windows</h3><p>推荐 Clash Verge / Clash for Windows。导入订阅后开启系统代理，可按域名分流。适合办公与下载场景。</p></div><div class=\"client\"><h3>macOS</h3><p>可用 ClashX.Meta 或 Surge。菜单栏一键切换节点，规则集支持流媒体走指定出口。</p></div><div class=\"client\"><h3>Android</h3><p>推荐 Clash Meta for Android。后台稳定，支持分应用代理，避免国内 App 误走代理。</p></div><div class=\"client\"><h3>iOS / iPadOS</h3><p>常用 Shadowrocket、Stash、Quantumult X。从 App Store 安装后粘贴订阅，开启 VPN 配置即可。</p></div><div class=\"client\"><h3>Linux / 路由器</h3><p>Clash 内核或兼容订阅的软路由均可。团队版可配合定制路由，把游戏与会议单独走 IPLC。</p></div></div><p id=\"download\">官网下载说明：肥猫云提供订阅与节点，客户端为开源或商店软件。请先完成套餐开通，再在用户中心复制 HTTPS 订阅。切勿从不明网盘获取「破解客户端」。需要最新入口时，回到本页顶部导航或收藏本官网。</p></div></section><section class=\"section\" id=\"scenes\"><div class=\"wrap\"><h2>使用场景</h2><h3>流媒体与资讯</h3><p>旗舰版强调全节点原生解锁，适合需要稳定观看海外影视、直播与资讯站点的用户。基础版覆盖常见平台的基础解锁，高峰期可切换备用节点。</p><h3>游戏与实时对战</h3><p>IPLC 专线降低跨境丢包，适合对延迟敏感的对战与更新下载。建议游戏进程走游戏节点，其他流量走普通线路，避免抢带宽。</p><h3>远程办公与协作</h3><p>会议、代码仓库与云盘可指定代理。团队版支持更多同时在线设备与定制路由，方便工作室统一出口策略。</p><h3>差旅与多设备</h3><p>同一订阅在手机与电脑间切换。设备数按套餐计数，长期多终端请选择旗舰或团队。</p></div></section><section class=\"section\" id=\"guide\"><div class=\"wrap\"><h2>操作说明</h2><div class=\"steps\"><ol><li>在官网选择套餐并完成支付，进入用户中心确认流量与到期时间。</li><li>复制机场订阅链接（通常为 Clash / 通用订阅）。不要把链接发到公开群组。</li><li>按上一节选择客户端并完成安装，授予 VPN 或系统代理权限。</li><li>在客户端选择「从 URL 更新」，粘贴订阅，等待节点列表刷新。</li><li>先测延迟再启用规则模式：国内直连、海外代理。流媒体可锁定对应区域节点。</li><li>若无法连接，检查系统时间、订阅是否过期、本地防火墙是否拦截内核。</li></ol></div><h3>节点与性能说明</h3><p>普通池适合浏览与中等带宽；IPLC 与 VIP 池面向游戏和高并发。实际速度受本地宽带、时段与目标站影响。建议收藏 2–3 个低延迟节点作为常用，其余作备用。流量以用户中心统计为准，当月用尽后可能限速，可升级套餐或等待重置。</p></div></section><section class=\"section\" id=\"faq\"><div class=\"wrap\"><h2>常见问题</h2><details><summary>肥猫云是机场还是 VPN？和普通加速器有何不同？</summary><p>肥猫云以机场订阅为主，同时可在各系统客户端中作为 VPN 加速器使用。区别在于一份订阅可导入多个客户端，规则在本地执行，而不是只能使用单一封闭 App。</p></details><details><summary>如何完成客户端下载并导入肥猫云订阅？</summary><p>先从对应系统的正规渠道安装 Clash、Shadowrocket 等，再在肥猫云用户中心复制订阅 URL，于客户端内「订阅/配置」处更新。本站「客户端选择」与「官网下载」章节有平台对照。</p></details><details><summary>三个套餐该怎么选？流量与设备不够怎么办？</summary><p>个人轻度使用选基础版；需要原生流媒体与游戏线路选旗舰版；多成员或多设备选团队版。流量或设备不足时可升级，年付按页内标价执行。</p></details><details><summary>是否支持流媒体解锁和游戏加速？</summary><p>基础版提供基础流媒体解锁；旗舰版为全节点原生解锁并含 IPLC 游戏优化；团队版另有 VIP 高带宽节点。具体片名与区服仍受版权与线路波动影响，可换节点测试。</p></details><details><summary>连接失败或速度慢时如何排查？</summary><p>确认订阅未过期、客户端已更新配置、系统时间准确。尝试切换协议或节点，关闭占用 7890 等端口的旧内核。游戏请走专线节点并避免与大流量下载同时进行。</p></details><details><summary>如何联系支持？团队版有什么额外服务？</summary><p>旗舰版含 7x24 优先工单；团队版配备专属客户经理与定制路由沟通。工单请通过官网用户中心提交，并附上客户端类型、节点名称与错误截图文字描述。</p></details></div></section><section class=\"section\"><div class=\"wrap\"><div class=\"ad\" id=\"ads\">合作展示：如需为企业线路或批量订阅沟通，请通过官网工单注明「商务合作」。本栏为文字合作位，不含第三方跳转脚本。</div><h2>友情链接</h2><div class=\"friend\"><a href=\"#\">客户端兼容说明</a><a href=\"#guide\">订阅导入指南</a><a href=\"#plans\">套餐对照</a><a href=\"#download\">官方下载入口</a><a href=\"#faq\">帮助中心</a></div></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>肥猫云(FatCat) 官方网站 · 机场订阅与 VPN 加速器信息服务</p><p><a href=\"#\">返回顶部</a> · <a href=\"#\">网站地图</a> · <a href=\"#download\">官网下载</a></p><p>仅提供合法合规的网络加速与跨境访问技术说明。请遵守所在地法律法规与目标网站条款。</p></div></footer>",
+          "hash": "79eccff24a8ed64af17272bf55b1e206c154ed85ad536a91573eeeca183a6da1",
+          "seo": {
+            "title": "肥猫云(FatCat)官网 | VPN加速器、机场订阅与客户端下载",
+            "keywords": "肥猫云,FatCat,肥猫云VPN,肥猫云机场,肥猫云官网,VPN加速器,梯子,网络加速,客户端下载,Clash订阅,官方下载",
+            "description": "肥猫云(FatCat)提供稳定高速的机场订阅与VPN加速服务，支持多端客户端下载，覆盖流媒体解锁、游戏加速与跨境办公，欢迎访问官网获取套餐与官方下载。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "8nplqh.cn",
+    "host": "p-78b5acaefc.8nplqh.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "8nplqh.cn",
+      "url": "https://8nplqh.cn/",
+      "label": "Dotunnel",
+      "apex": "8nplqh.cn",
+      "kind": null,
+      "identity": "ktfyum/page-be115a879926ef7294a5c692"
+    },
+    {
+      "host": "fineartit.com",
+      "url": "https://fineartit.com/",
+      "label": "肥猫云(FatCat)",
+      "apex": "fineartit.com",
+      "kind": null,
+      "identity": "bjdqkn/page-908db968b07b7f03379e93f4"
+    },
+    {
+      "host": "shfhgy.com",
+      "url": "https://shfhgy.com/",
+      "label": "肥猫云(FatCat)",
+      "apex": "shfhgy.com",
+      "kind": null,
+      "identity": "nkydahug/page-e8337fbcf10c0ee8455aae36"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "1c413413ff24781bde07c60f7e53779d28a33007e018c66cef75fd27ede0228a",
+    "sitemap.xml": "a770f321911095bdd73f1679255a4978ef368b052f2f02cd301e75a3afc921d1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "deeda5c46746ffb76b3ad209cf2304f834b6b712aa1ec7db8a8cc2785ca018f6",
+    "robots.txt": "cd56dc321d73c31774c529e27428f78cdc77e69a2fcd519b4fe7e3befda87257",
+    "b66136a21d7e163721c0f54392f8a89c.txt": "20d7f22c2fb996f95eae8b5b073c22dbbec76c976444d20bf25c1a4e1107352f"
+  },
+  "revision": "709e62701469fb415a97a77733bc4de668d3716ccd327aa3670493bc6e049bf1"
+}
